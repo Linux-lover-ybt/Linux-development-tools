@@ -1,0 +1,6 @@
+# Binary artifacts are distributed through GitHub Releases.
+/*
+!/.gitignore
+!/README.md
+!/MANIFEST.csv
+!/SHA256SUMS.txt
